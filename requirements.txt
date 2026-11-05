@@ -1,0 +1,8 @@
+psutil>=5.9.0
+pyperclip>=1.8.2
+pyautogui>=0.9.54
+pycaw>=20240210
+pywin32>=306
+pypdf>=4.0.0
+comtypes>=1.4.0
+
